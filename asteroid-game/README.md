@@ -22,8 +22,9 @@ pip install -r requirements.txt
 python main.py
 ```
 ### Optional: use uv
-uv venv
-uv pip install -r requirements.txt
-uv run python main.py
+- uv venv
+- uv pip install -r requirements.txt
+- uv run python main.py
+
 
 

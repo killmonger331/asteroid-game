@@ -21,8 +21,9 @@ cd asteroid-game
 pip install -r requirements.txt
 python main.py
 ```
-### Use uv Optional
+### Optional: use uv
 uv venv
 uv pip install -r requirements.txt
 uv run python main.py
+
 
